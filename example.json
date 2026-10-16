@@ -1,0 +1,9 @@
+{
+  "before": {
+    "config.ini": "old-digest"
+  },
+  "after": {
+    "config.ini": "new-digest",
+    "new.txt": "digest"
+  }
+}
